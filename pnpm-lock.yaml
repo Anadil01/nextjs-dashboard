@@ -51,7 +51,7 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       use-debounce:
-        specifier: ^10.0.4
+        specifier: ^10.1.1
         version: 10.1.1(react@19.2.7)
       zod:
         specifier: ^3.25.17
